@@ -1,6 +1,28 @@
-header{
-    font-size: 24px;
-    font-weight: bold;
-    color: blue;
-
+body {
+    background-color: red;  
 }
+
+header {
+    text-align: center;
+    padding: 25px;
+    background-color: #4a69bd;
+    color: white;
+    margin: 25px;
+    font-size: 30px;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+input{
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
